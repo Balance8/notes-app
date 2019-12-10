@@ -1,7 +1,6 @@
 const chalk = require('chalk');
 const yargs = require('yargs');
 const notes = require('./notes');
-const test = 'test';
 
 //customize yargs version
 
